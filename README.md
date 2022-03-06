@@ -1,6 +1,9 @@
 ## Hi there👋
 
-I'm Wafa, i enjoy developing a mobile apps 🤖 using kotlin and flutter.
+<img src="https://raw.githubusercontent.com/mikirinkode/mikirinkode/master/assets/hello.png" alt="Hello There">
+
+## About me
+I'm Wafa, a human who enjoy developing a mobile apps 🤖 using kotlin and flutter. I also enjoy designing User Interface.
 
 <!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikirinkode&count_private=true&theme=algolia&show_icons=true)
