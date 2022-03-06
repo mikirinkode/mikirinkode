@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there👋
+
+I'm Wafa, i enjoy developing a mobile apps 🤖 using kotlin and flutter.
+
+<!-- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikirinkode&count_private=true&theme=algolia&show_icons=true)
+ -->
 
 <!--
 **mikirinkode/mikirinkode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
