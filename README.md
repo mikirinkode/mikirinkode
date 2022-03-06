@@ -1,4 +1,4 @@
-## Hai 👋
+## 👋
 
 <img src="https://raw.githubusercontent.com/mikirinkode/mikirinkode/master/assets/hello.png" alt="Hello There">
 
