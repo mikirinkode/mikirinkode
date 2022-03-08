@@ -8,10 +8,12 @@ I'm Wafa, a human who enjoy developing a mobile apps 📱 using kotlin and flutt
 ## Get in Touch
 - 📧 <a href="mailto:muhammadwafa105@gmail.com?">Send an Email</a>
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikirinkode&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <!-- ## Example of what i do -->
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikirinkode&count_private=true&theme=algolia&show_icons=true)
- -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikirinkode&count_private=true&theme=algolia&show_icons=true) -->
+
 
 <!--
 **mikirinkode/mikirinkode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
