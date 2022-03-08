@@ -5,6 +5,10 @@
 ## About me
 I'm Wafa, a human who enjoy developing a mobile apps 🤖 using kotlin and flutter. I also enjoy designing User Interface.
 
+## Get in Touch
+- 📧 <a href="mailto:muhammadwafa105@gmail.com?">Send an Email</a>
+- 📱 <a href="https://www.instagram.com/muhammadwafa_/">dm on Instagram</a>
+
 <!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikirinkode&count_private=true&theme=algolia&show_icons=true)
  -->
