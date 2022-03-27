@@ -10,7 +10,8 @@ I'm Wafa, a human who enjoy developing a mobile apps 📱 using kotlin and flutt
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikirinkode&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- ## Example of what i do -->
+## Example of what i do
+
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikirinkode&count_private=true&theme=algolia&show_icons=true) -->
 
