@@ -11,7 +11,7 @@ I'm Wafa, a human who enjoy developing a mobile apps 📱 using kotlin and flutt
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikirinkode&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Example of what i do
-
+<img style="height:400px;" src="https://raw.githubusercontent.com/mikirinkode/mikirinkode/master/assets/spod_app.png" alt="Spod App Preview">
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikirinkode&count_private=true&theme=algolia&show_icons=true) -->
 
