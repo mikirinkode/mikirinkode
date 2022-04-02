@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/mikirinkode/mikirinkode/master/assets/hello.png" alt="Hello There">
 
 ## About me
-I'm Wafa, a human who enjoy developing a mobile apps 📱 using kotlin and flutter. I also enjoy designing User Interface.
+Hi I'm Wafa, i love & enjoy developing a mobile apps 📱 using kotlin and flutter. I also enjoy designing User Interface.
 
 ## Get in Touch
 - 📧 <a href="mailto:muhammadwafa105@gmail.com?">Send an Email</a>
@@ -12,7 +12,7 @@ I'm Wafa, a human who enjoy developing a mobile apps 📱 using kotlin and flutt
 
 ## Example of what i love to do
 <a href="https://github.com/mikirinkode/sports_field_booking_app">
-<img style="height:400px;" src="https://raw.githubusercontent.com/mikirinkode/mikirinkode/master/assets/spod_app.png" alt="Spod App Preview">
+<img style="height:300px;" src="https://raw.githubusercontent.com/mikirinkode/mikirinkode/master/assets/spod_app.png" alt="Spod App Preview">
 </a>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikirinkode&count_private=true&theme=algolia&show_icons=true) -->
 
