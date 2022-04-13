@@ -11,9 +11,7 @@ Hi I'm Wafa, i love & enjoy developing a mobile apps 📱 using kotlin and flutt
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikirinkode&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Example of what i love to do
-<a href="https://github.com/mikirinkode/sports_field_booking_app">
-<img style="height:300px;" src="https://raw.githubusercontent.com/mikirinkode/mikirinkode/master/assets/spod_app.png" alt="Spod App Preview">
-</a>
+⚡ https://mikirinkode.github.io/
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikirinkode&count_private=true&theme=algolia&show_icons=true) -->
 
 
